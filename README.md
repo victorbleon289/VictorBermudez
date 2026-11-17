@@ -71,7 +71,7 @@ Desarrollador de Software especializado en el ecosistema **.NET**, enfocado en c
 - Ollama
 - ML.NET
 - GitHub Copilot
-- n8n.
+- n8n
 
 **Metodologías y Herramientas**
 - Scrum
@@ -82,7 +82,7 @@ Desarrollador de Software especializado en el ecosistema **.NET**, enfocado en c
 - Arquitectura 4+1
 - Postman
 - Kafka
-- ISO 8583.
+- ISO 8583
 
 ---
 
@@ -93,15 +93,15 @@ Desarrollador de Software especializado en el ecosistema **.NET**, enfocado en c
 * **Tecnologías:** .NET Framework 4.5, ADO. NET, SQL Server.
 * **Enlace:** Privado
 
-#### 2. [Nombre del Proyecto 2]
-* **Descripción:** Breve explicación (ej. *Aplicación web full-stack para control de gastos personales*).
-* **Tecnologías:** Blazor Server / ASP.NET MVC, PostgreSQL, Bootstrap.
-* **Enlace:** [Ver Repositorio](https://github.com)
+#### 2. Cajeros receptores de pago
+* **Descripción:** Sistema para pagos parciales/completos de créditos y depósitos a cuentas de ahorro con soporte de código de barras para usuarios que deseen realizar depósitos a cuentas y pagar créditos fuera de días y horarios de atención en ventanilla..
+* **Tecnologías:** .NET Framework 4.5, ADO. NET, APIs de medios de pago, SQL Server.
+* **Enlace:** Privado
 
-#### 3. [Nombre del Proyecto 3]
-* **Descripción:** Breve explicación (ej. *Microservicio de notificaciones asíncronas*).
-* **Tecnologías:** .NET, RabbitMQ, Redis, Clean Architecture.
-* **Enlace:** [Ver Repositorio](https://github.com)
+#### 3. Implementación de operaciones SPEI
+* **Descripción:** Solución para enviar y recibir transferencias SPEI desde el portal de banca electrónica institucional y cuentas CLABE a través de la institución STP.
+* **Tecnologías:** .NET Framework 4.5, SQL Server, ASP .Net MVC.
+* **Enlace:** Privado
 
 ---
 
