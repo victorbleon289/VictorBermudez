@@ -13,11 +13,11 @@ Desarrollador de Software especializado en el ecosistema **.NET**, enfocado en c
 
 **Lenguajes y Frameworks**
 ![C#](https://dotnet.microsoft.com/es-es/languages/csharp)
-![.NET](https://shields.io)
-![ASP.NET Core](https://shields.io)
+![.NET](https://dotnet.microsoft.com/es-es/)
+![ASP.NET Core](https://dotnet-microsoft-com.translate.goog/en-us/apps/aspnet?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
 
 **Bases de Datos y ORMs**
-![SQL Server](https://shields.io)
+![SQL Server])
 ![PostgreSQL](https://shields.io)
 ![Entity Framework](https://shields.io)
 
