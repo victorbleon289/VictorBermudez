@@ -15,16 +15,23 @@ Desarrollador de Software especializado en el ecosistema **.NET**, enfocado en c
 ![C#](https://dotnet.microsoft.com/es-es/languages/csharp)
 ![.NET](https://dotnet.microsoft.com/es-es/)
 ![ASP.NET Core](https://dotnet-microsoft-com.translate.goog/en-us/apps/aspnet?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+!.NET (Core 6, 8, 10 / Framework 4.8)
+
+**Backend y Arquitectura**
+!Microservicios
+!APIs REST, SOAP (WCF / ASMX), Clean Architecture, Arquitectura N-Capas, Event-Driven, Patrones de Diseño (SOLID, BFF, Pub/Sub), Background Tasks, WebHooks.
 
 **Bases de Datos y ORMs**
-![SQL Server])
-![PostgreSQL](https://shields.io)
-![Entity Framework](https://shields.io)
+![SQL Server]
+![PostgreSQL]
+![Entity Framework]
 
 **Herramientas y DevOps**
-![Git](https://shields.io)
-![Docker](https://shields.io)
-![Azure](https://shields.io)
+![Git]
+![Docker]
+![Azure]
+
+
 
 ---
 
