@@ -88,10 +88,10 @@ Desarrollador de Software especializado en el ecosistema **.NET**, enfocado en c
 
 ### 🚀 Proyectos Destacados
 
-#### 1. [Nombre del Proyecto 1]
-* **Descripción:** Breve explicación de qué problema resuelve el sistema (ej. *API RESTful para gestión de inventarios con autenticación JWT*).
-* **Tecnologías:** .NET 8, ASP.NET Core Web API, Entity Framework Core, SQL Server, Docker.
-* **Enlace:** [Ver Repositorio](https://github.com)
+#### 1. Autorizador de transacciones ATM/POS
+* **Descripción:** Solución de software servidor para autorizar miles de operaciones en el uso de tarjetas de débito en terminales ATM y POS certificada por la institución de medios de pago PROSA y siguiendo lineamientos de seguridad de PCI y OWASP. Este aplicativo recibe las peticiones de autorización de transacciones desd PROSA en formato ISO 8583 y se encarga de procesar parte de la mensajería, validar información de la transacción, validar datos de la tarjeta con un HSM, validar datos del tarjetahabiente y autorizar o rechazar las solicitudes a través de una serie de reglas de negocio y comunicando a origenes de datos distribuidos de diversas sucursales, todo esto procesando cada solicitud en menos de 5 segundos para que pueda ser autorizada por PROSA..
+* **Tecnologías:** .NET Framework 4.5, ADO. NET, SQL Server.
+* **Enlace:** Privado
 
 #### 2. [Nombre del Proyecto 2]
 * **Descripción:** Breve explicación (ej. *Aplicación web full-stack para control de gastos personales*).
