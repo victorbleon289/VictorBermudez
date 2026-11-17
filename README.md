@@ -12,28 +12,77 @@ Desarrollador de Software especializado en el ecosistema **.NET**, enfocado en c
 ### 🛠️ Stack Tecnológico
 
 **Lenguajes y Frameworks**
-![C#](https://dotnet.microsoft.com/es-es/languages/csharp)
-![.NET](https://dotnet.microsoft.com/es-es/)
-![ASP.NET Core](https://dotnet-microsoft-com.translate.goog/en-us/apps/aspnet?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
-!.NET (Core 6, 8, 10 / Framework 4.8)
+- ![C#](https://dotnet.microsoft.com/es-es/languages/csharp)
+- ![.NET](https://dotnet.microsoft.com/es-es/)
+- ![ASP.NET Core](https://dotnet-microsoft-com.translate.goog/en-us/apps/aspnet?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+- .NET (Core 6, 8, 10 / Framework 4.8)
+- SQL
+- JavaScript
+- HTML5 y CSS3
+- Python (Básico)
+- Legado: VB.NET, VB 6.0, PHP
 
 **Backend y Arquitectura**
-!Microservicios
-!APIs REST, SOAP (WCF / ASMX), Clean Architecture, Arquitectura N-Capas, Event-Driven, Patrones de Diseño (SOLID, BFF, Pub/Sub), Background Tasks, WebHooks.
+- Microservicios
+- APIs REST
+- SOAP (WCF / ASMX)
+- Clean Architecture
+- Arquitectura N-Capas
+- Event-Driven
+- Patrones de Diseño (SOLID, BFF, Pub/Sub)
+- Background Tasks
+- WebHooks
 
 **Bases de Datos y ORMs**
-![SQL Server]
-![PostgreSQL]
-![Entity Framework]
+- SQL Server
+- PostgreSQL
+- MySQL
+- MongoDB
+- Azure Cosmos DB
+- SQLite E
+- Entity Framework
+- LINQ
+- ADO.NET
+
+**Nube**
+- Microsoft Azure (App Services, Storage, Cosmos DB, Speech Service, Azure Foundry)
+- AWS (KMS, Cognito, CloudWatch, Log Insight)
 
 **Herramientas y DevOps**
-![Git]
-![Docker]
-![Azure]
+- Git
+- GitHub
+- Docker
+- Azure
+- CI/CD
+- Azure DevOps
 
+**Seguridad y Calidad de Código**
+- PCI DSS
+- OWASP Top 10
+- JWT
+- SonarQube
+- Fortify
+- xUnit
+- Análisis Estático y Pentesting
 
+**Inteligencia Artificial y Automatización**
+- Agentes de IA (Azure Foundry)
+- OpenAI
+- Ollama
+- ML.NET
+- GitHub Copilot
+- n8n.
 
----
+**Metodologías y Herramientas**
+- Scrum
+- Waterfall
+- JIRA
+- Confluence
+- UML
+- Arquitectura 4+1
+- Postman
+- Kafka
+- ISO 8583.
 
 ### 🚀 Proyectos Destacados
 
