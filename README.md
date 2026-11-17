@@ -2,8 +2,8 @@
 
 Desarrollador de Software especializado en el ecosistema **.NET**, enfocado en construir aplicaciones robustas, escalables y con arquitectura limpia. 
 
-- 🔭 Actualmente trabajo en **[Nombre de tu proyecto actual o empresa]**
-- 🌱 Aprendiendo más sobre **Microservicios con .NET, Azure, Docker, MAUI y Blazor**
+- 🔭 Actualmente estoy en busca de una oportunidad laboral estable y retadora.
+- 🌱 Estoy aprendiendo más sobre **Microservicios con .NET, Azure, Docker, MAUI, Blazor, IA y n8n.**
 - 💬 Pregúntame sobre **C#, ASP.NET Core, Entity Framework y SQL Server**
 - 📫 Cómo contactarme: **victor_b_leon@yahoo.com.mx** | **[Enlace a tu LinkedIn]**
 
@@ -12,7 +12,7 @@ Desarrollador de Software especializado en el ecosistema **.NET**, enfocado en c
 ### 🛠️ Stack Tecnológico
 
 **Lenguajes y Frameworks**
-![C#](https://shields.io)
+![C#](https://dotnet.microsoft.com/es-es/languages/csharp)
 ![.NET](https://shields.io)
 ![ASP.NET Core](https://shields.io)
 
