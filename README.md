@@ -5,7 +5,7 @@ Desarrollador de Software especializado en el ecosistema **.NET**, enfocado en c
 - 🔭 Actualmente estoy en busca de una oportunidad laboral estable y retadora.
 - 🌱 Estoy aprendiendo más sobre **Microservicios con .NET, Azure, Docker, MAUI, Blazor, IA y n8n.**
 - 💬 Pregúntame sobre **C#, ASP.NET Core, Entity Framework y SQL Server**
-- 📫 Cómo contactarme: **victor_b_leon@yahoo.com.mx** | **[Enlace a tu LinkedIn]**
+- 📫 Cómo contactarme: **victor_b_leon@yahoo.com.mx** | **[https://www.linkedin.com/in/victor-adri%C3%A1n-berm%C3%BAdez-le%C3%B3n-1600471a5/]**
 
 ---
 
@@ -83,6 +83,8 @@ Desarrollador de Software especializado en el ecosistema **.NET**, enfocado en c
 - Postman
 - Kafka
 - ISO 8583.
+
+---
 
 ### 🚀 Proyectos Destacados
 
