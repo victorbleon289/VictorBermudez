@@ -83,6 +83,8 @@ Desarrollador de Software especializado en el ecosistema **.NET**, enfocado en c
 - Postman
 - Kafka
 - ISO 8583
+- Grafana
+- Loki
 
 ---
 
@@ -99,10 +101,24 @@ Desarrollador de Software especializado en el ecosistema **.NET**, enfocado en c
 * **Enlace:** Privado
 
 #### 3. Implementación de operaciones SPEI
-* **Descripción:** Solución para enviar y recibir transferencias SPEI desde el portal de banca electrónica institucional y cuentas CLABE a través de la institución STP.
+* **Descripción:** Solución para enviar y recibir transferencias SPEI desde el portal de banca electrónica institucional y cuentas CLABE a través de la institución STP para los socios de la Cooperativa.
 * **Tecnologías:** .NET Framework 4.5, SQL Server, ASP .Net MVC.
 * **Enlace:** Privado
 
+#### 4. App para terminales POS
+* **Descripción:** Aplicación construida para terminales POS con SDK Ingenico para poder autorizar transacciones en ventanilla y realizar cambios de PIN, cumpliendo los lineamientos de la CNBV.
+* **Tecnologías:** C++, SDK Ingenico, terminales POS Ingenico.
+* **Enlace:** Privado
+
+#### 5. Aplicativo Web para administración de nuevos servicios
+* **Descripción:** Aplicativo Web para uso de la red de cooperativas y cuya funcionalidad es dar de alta a sus socios, nuevos servicios tecnológicos ofrecidos: Tarjeta de débito, Banca electrónica, Servicio SPEI, entre otros.
+* **Tecnologías:** .NET Framework 4.5, Servicios WCF, ASP .Net MVC, SQL Server.
+* **Enlace:** Privado
+
+* #### 6. Sistema contable a medida
+* **Descripción:** Solución de software contable realizado a medida para las cooperativas, cuyo objetivo es administrar la contabilidad de las diversas sucursales de una cooperativa: empresa, sucursales, periodos y ejercicios, cuentas del catálogo mínimo y adicionales, pólizas, reportes financieros y reportes regulatorios, además de recibir la información exportada del Core Bancario para generación de pólizas, entre otras.
+* **Tecnologías:** .NET Framework 4.5, Servicios WCF, WPF, SQL Server.
+* **Enlace:** Privado
 ---
 
 ### 📊 Estadísticas de GitHub
