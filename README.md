@@ -92,7 +92,7 @@ Desarrollador de Software especializado en el ecosistema **.NET**, enfocado en c
 
 #### 1. Autorizador de transacciones ATM/POS
 * **Descripción:** Solución de software servidor para autorizar miles de operaciones en el uso de tarjetas de débito en terminales ATM y POS certificada por la institución de medios de pago PROSA y siguiendo lineamientos de seguridad de PCI y OWASP. Este aplicativo recibe las peticiones de autorización de transacciones desd PROSA en formato ISO 8583 y se encarga de procesar parte de la mensajería, validar información de la transacción, validar datos de la tarjeta con un HSM, validar datos del tarjetahabiente y autorizar o rechazar las solicitudes a través de una serie de reglas de negocio y comunicando a origenes de datos distribuidos de diversas sucursales, todo esto procesando cada solicitud en menos de 5 segundos para que pueda ser autorizada por PROSA..
-* **Tecnologías:** .NET Framework 4.5, ADO. NET, SQL Server.
+* **Tecnologías:** .NET Framework 4.5, ADO. NET, WPF, Servicios de Servidor, SQL Server.
 * **Enlace:** Privado
 
 #### 2. Cajeros receptores de pago
@@ -115,7 +115,7 @@ Desarrollador de Software especializado en el ecosistema **.NET**, enfocado en c
 * **Tecnologías:** .NET Framework 4.5, Servicios WCF, ASP .Net MVC, SQL Server.
 * **Enlace:** Privado
 
-* #### 6. Sistema contable a medida
+#### 6. Sistema contable a medida
 * **Descripción:** Solución de software contable realizado a medida para las cooperativas, cuyo objetivo es administrar la contabilidad de las diversas sucursales de una cooperativa: empresa, sucursales, periodos y ejercicios, cuentas del catálogo mínimo y adicionales, pólizas, reportes financieros y reportes regulatorios, además de recibir la información exportada del Core Bancario para generación de pólizas, entre otras.
 * **Tecnologías:** .NET Framework 4.5, Servicios WCF, WPF, SQL Server.
 * **Enlace:** Privado
